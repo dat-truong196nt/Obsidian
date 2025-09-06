@@ -11,10 +11,14 @@
             "id": "9ed58dd801df3af4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Software engineer"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +78,18 @@
             "id": "4b085b500aaf50df",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Notion/Born to learn/Learn & Grow/Software engineer/Untitled"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b9a960c732aae60e",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -81,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,9 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ed58dd801df3af4",
+  "active": "b9a960c732aae60e",
   "lastOpenFiles": [
+    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer/DataBricks.md",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/My darling (24-12).md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-09-06 22.27.11.excalidraw.md",
     "Excalidraw",
@@ -195,7 +213,6 @@
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Spark.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Network.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled.md",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
     "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
     "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Podcast's chị Nhiên.md",
     "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
@@ -208,7 +225,6 @@
     "Notion/Born to learn/Learn & Grow/Learn & Grow.md",
     "Notion/Notion.md",
     "Vault.md",
-    "Notion/Born to learn/Learn & Grow/Personal Development/Born to sale/Born to sale.md",
     "Notion/System/Images/freelancer.jpg",
     "Notion/System/Images/Freelancer.jpg",
     "Notion/System/Images/world.jpeg",
