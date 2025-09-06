@@ -1,9 +1,10 @@
 {
   "cssTheme": "Obsidianotion",
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "showViewHeader": true,
   "showRibbon": false,
   "nativeMenus": true,
-  "translucency": true
+  "translucency": true,
+  "accentColor": "#bf5cf5"
 }

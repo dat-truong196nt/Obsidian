@@ -1,5 +1,5 @@
 ---
-banner: Notion/System/Images/software_engineer.jpeg
+banner: "Notion/System/Images/software_engineer.jpeg"
 ---
 
 |Name|Created|Ref|
