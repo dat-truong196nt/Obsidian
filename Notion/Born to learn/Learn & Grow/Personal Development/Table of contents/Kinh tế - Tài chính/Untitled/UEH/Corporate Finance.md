@@ -1,5 +1,6 @@
 ---
-Passwords: Chứng khoán, ngân hàng or kế toán trưởngTái cơ cấu?
+Level: Fundamental
+tags: finance_fundamental
 ---
 CFA, ACCA?  
   
@@ -118,10 +119,9 @@ Giả định: ko thuế, ko chi phí giao dịch, NĐT vs Cty có cùng lãi su
   
 EBIT là cầu nối giữa quyết định đầu tư và quyết định tài trợ  
   
-  
-  
-WACC tại sao gọi là chi phí?  
-  
 Extended DuPont
 
 ![[image 11.png|image 11.png]]
+
+
+

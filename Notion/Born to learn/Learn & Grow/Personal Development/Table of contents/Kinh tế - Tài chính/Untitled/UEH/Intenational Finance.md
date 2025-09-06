@@ -1,7 +1,3 @@
----
-Passwords: Need casio
-Midterm: 2024-09-13
----
 Context:  
 - Tỉ giá mặc định (trực tiếp): 1 ngoại tệ = ? nội tệ  
 - Trong điều kiện các yếu tố khác không đổi.  

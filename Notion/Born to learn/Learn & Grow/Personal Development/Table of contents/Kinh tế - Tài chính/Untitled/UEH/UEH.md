@@ -5,7 +5,7 @@ sticker: ""
 |---|---|---|---|---|---|
 |[[Nguyên lý kế toán]]||||||
 |[[Macroeconomics]]|August 4, 2024|August 18, 2024|September 1, 2024|September 15, 2024|Macro_LMHa  <br>Macro_economics|
-|[[Financial theory]]|September 23, 2024||||CafeF|
+|[[Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Financial theory/Financial theory]]|September 23, 2024||||CafeF|
 |[[International finance]]|September 13, 2024||||Need casio|
 |[[Kinh tế lượng tài chính]]||||||
 |[[Kế toán tài chính]]||||||

@@ -1,3 +1,6 @@
+---
+tags: finance_fundamental
+---
 Tips: Do the homework  
 Managerial accounting activities focus on reports for internal users.  
 Chương 7: Đặc điểm kế toán doanh nghiệp Việt Nam (Đọc thêm)(Ko thi)  

@@ -1,9 +1,6 @@
 ---
 Passwords: Macro_LMHaMacro_economics
-Midterm: 2024-08-04
-Midterm2: 2024-08-18
-Midterm3: 2024-09-01
-Midterm4: 2024-09-15
+tags: finance_fundamental
 ---
 10 → 22
 

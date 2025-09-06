@@ -46,4 +46,5 @@ Non-time-based windows is not supported on streaming DF
 	* Each time query the view -> Execute table again -> Costly
 ## Materialize view
 * Cache and update as source change (Schedule/Auto)
-* 
+# Partitioning
+* Op
