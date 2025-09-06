@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0f154fb7894eb1f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "469359397b4e38d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c116ea3b26f1c1f0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Notion"
+              },
+              "icon": "lucide-file",
+              "title": "Notion"
+            }
+          },
+          {
+            "id": "6d714fe9cc099750",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Notion/Born to learn"
+              },
+              "icon": "lucide-file",
+              "title": "Born to learn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f51b4a2c2eac5fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad46d946985e77b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de767ed185293e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f5c553a900fa493",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82b3f476e6516270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8d1276ebd3ee6f33",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d288416f4cc745d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cff491b684ebac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c0e0da0f62c9e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2c11db7cdd645029",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d846aff55262e13c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "997dfab0d9c09b4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6de767ed185293e8",
+  "lastOpenFiles": [
+    "Notion/Born to learn/Born to learn.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
+    "System/Images/software_engineer.jpeg",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Personal Development.md",
+    "Notion/Born to learn/Learn & Grow/Freelancer/Freelancer.md",
+    "Notion/Born to learn/Learn & Grow/English/English.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
+    "System/Images/nocover.jpg",
+    "Notion/Born to learn/Learn & Grow/Learn & Grow.md",
+    "System/Images/colors.jpeg",
+    "System/Images/world.jpeg",
+    "ObsidianVault/System/Images/photo-1541701494587-cb58502866ab.jpeg",
+    "ObsidianVault/Notion/Born to learn/Learn & Grow/English.md",
+    "ObsidianVault/Notion/Born to learn/Learn & Grow/Chi Nhiên.md",
+    "Notion/Born to learn/Weekly plan.md",
+    "Tags",
+    "System/Images/2244.jpg",
+    "ObsidianVault/System/Images/4719_fullimage_20210309-image-dataanalytics-magnifieroverview-high-3000x1987.jpeg",
+    "System/Images/166a53e9658dc3d39a9c.jpg",
+    "System/Images/92-6-use-cases-of-spread-with-array.jpeg",
+    "Notion/Free Note/env.cfg.md",
+    "Notion/Free Note/AI Prompt.md",
+    "System/Images/web-development.png",
+    "System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
+    "System/Images",
+    "System",
+    "Notion/Free Note/SME data platform/SME data platform.md",
+    "Notion/Free Note/Untitled 8.md",
+    "Notion/Free Note/Untitled 5.md",
+    "Notion/Free Note/Test Mac.md",
+    "Notion/Free Note/SME data platform",
+    "Notion/Free Note/QTH.md",
+    "Notion/Free Note/Free Note.md",
+    "Notion/Free Note",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS/CSS in JS.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/Redux/Redux.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/React/React.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/CSS.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/JS/JS.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/TODO.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/Redux",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/React",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/MIX.md",
+    "Untitled.canvas"
+  ]
+}
