@@ -1,6 +1,7 @@
 # Terms
 * CDC: Capture changes in the source and delivering to the target
 * CDF: Change data feed
+	* delta.enableChangeDataFeed = true
 	* Auto records data changes in Delta tables
 	* Retrive: Select * from table_changes(name, start_version/timestamp, [end/version/timestamp])
 	* Schema
