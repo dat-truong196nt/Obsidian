@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Notion"
+                "path": "Notion/Born to learn"
               },
               "icon": "lucide-file",
-              "title": "Notion"
+              "title": "Born to learn"
             }
           },
           {
@@ -94,7 +94,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,31 +189,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6de767ed185293e8",
+  "active": "c116ea3b26f1c1f0",
   "lastOpenFiles": [
     "Notion/Born to learn/Born to learn.md",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
-    "System/Images/software_engineer.jpeg",
     "Notion/Born to learn/Learn & Grow/Personal Development/Personal Development.md",
-    "Notion/Born to learn/Learn & Grow/Freelancer/Freelancer.md",
+    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
+    "Notion/System/Images/world.jpeg",
+    "Notion/System/Images/nocover.jpg",
+    "Notion/System/Images/web-development.png",
+    "Notion/System/Images/web-design.png",
+    "Notion/System/Images/software_engineer.jpeg",
+    "Notion/System/Images/redux.svg",
+    "Notion/System/Images/js.png",
+    "Notion/System/Images/innovation.png",
+    "Notion/System/Images/image 9.png",
+    "Notion/System/Images/image.png",
+    "Notion/System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
+    "Notion/System/Images",
+    "Notion/System",
     "Notion/Born to learn/Learn & Grow/English/English.md",
-    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
-    "System/Images/nocover.jpg",
     "Notion/Born to learn/Learn & Grow/Learn & Grow.md",
-    "System/Images/colors.jpeg",
-    "System/Images/world.jpeg",
-    "ObsidianVault/System/Images/photo-1541701494587-cb58502866ab.jpeg",
+    "Notion/Born to learn/Learn & Grow/Freelancer/Freelancer.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
     "ObsidianVault/Notion/Born to learn/Learn & Grow/English.md",
     "ObsidianVault/Notion/Born to learn/Learn & Grow/Chi Nhiên.md",
     "Notion/Born to learn/Weekly plan.md",
     "Tags",
-    "System/Images/2244.jpg",
-    "ObsidianVault/System/Images/4719_fullimage_20210309-image-dataanalytics-magnifieroverview-high-3000x1987.jpeg",
-    "System/Images/166a53e9658dc3d39a9c.jpg",
-    "System/Images/92-6-use-cases-of-spread-with-array.jpeg",
     "Notion/Free Note/env.cfg.md",
     "Notion/Free Note/AI Prompt.md",
-    "System/Images/web-development.png",
     "System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
     "System/Images",
     "System",
@@ -228,12 +232,9 @@
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/Redux/Redux.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/React/React.md",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/CSS.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/JS/JS.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/TODO.md",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/Redux",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/React",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/MIX.md",
     "Untitled.canvas"
   ]
