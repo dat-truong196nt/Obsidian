@@ -1,5 +1,7 @@
 # Terms
-* CDC: Capture changes in the source and delivering to the target
+* CDC
+	* Change data capture
+	* Capture changes in the source and delivering to the target
 * CDF: Change data feed
 	* delta.enableChangeDataFeed = true
 	* Auto records data changes in Delta tables
