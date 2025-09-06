@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppSheet"
+              "title": "Verify order values"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AppSheet"
+              "title": "Backlinks for Verify order values"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AppSheet"
+              "title": "Outgoing links from Verify order values"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AppSheet"
+              "title": "Outline of Verify order values"
             }
           }
         ]
@@ -183,6 +183,12 @@
   },
   "active": "6d714fe9cc099750",
   "lastOpenFiles": [
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Untitled.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Verify order values.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/Podcast's chị Nhiên.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet/Appsheet/Customer deliver.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet/Appsheet/Cheat Sheet.md",
     "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
     "Notion/Born to learn/Born to learn.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Kinh tế - Tài chính.md",
@@ -220,14 +226,8 @@
     "System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
     "System/Images",
     "System",
-    "Notion/Free Note/SME data platform/SME data platform.md",
-    "Notion/Free Note/Untitled 8.md",
-    "Notion/Free Note/Untitled 5.md",
-    "Notion/Free Note/Test Mac.md",
     "Notion/Free Note/SME data platform",
-    "Notion/Free Note/QTH.md",
     "Notion/Free Note",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS/CSS in JS.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS",
     "Untitled.canvas"
   ]
