@@ -10,6 +10,7 @@
 | ---- | ---- | --- | ---------------- | -------- | ------- |
 | Val1 | Val2 | ... | update_preimage  | 00:00:01 | 2       |
 | Val1 | Val3 | ... | update_postimage | 00:00:02 | 2       |
+| Val2 | Val3 | ... | insert           | 00:00:02 | 2       |
 
 # Q&A
 1. Can we use Delta Time Travel as SCD Type 2? -> NO

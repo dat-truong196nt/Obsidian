@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfeddceeb8663034",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer"
-              },
-              "icon": "lucide-file",
-              "title": "Data engineer"
-            }
-          },
-          {
             "id": "914b53d05f7a027c",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "DataBricks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 425.5
   },
   "right": {
     "id": "8d288416f4cc745d",
