@@ -80,3 +80,6 @@ công ty ít nhất trong 5 năm liền trước đó.
 Lý do mỹ CEO có thể kiêm nhiệm chủ tịch HĐQT:  
 + Thiếu nguồn nhân lực.  
 + Thực dụng
+
+
+Change here

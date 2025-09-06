@@ -31,11 +31,21 @@ banner: "Notion/System/Images/databricks.webp"
 	* Do not scale well in cost and latency
 	- Run vacuum deleted
 2. What is merge limitation
-* Multiple source rows matched
-- Attempted to modify same target row
-- CDC with multiple updates for the same key
+	* Multiple source rows matched
+	- Attempted to modify same target row
+	- CDC with multiple updates for the same key
+3. Stream-Static join
+	* Each micro batch will fetch the latest version of static table
+4. 
+
 
 Non-time-based windows is not supported on streaming DF
 
 # Change Data Feed
-
+# View
+* Nothing from SQL query against tables
+* Compute results on demand
+	* Each time query the view -> Execute table again -> Costly
+## Materialize view
+* Cache and update as source change (Schedule/Auto)
+* 
