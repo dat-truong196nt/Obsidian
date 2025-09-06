@@ -1,3 +1,3 @@
 ---
-banner: Notion/System/Images/world.jpeg
+banner: "Notion/System/Images/world.jpeg"
 ---

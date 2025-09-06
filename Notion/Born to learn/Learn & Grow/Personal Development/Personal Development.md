@@ -1,5 +1,5 @@
 ---
-banner: Notion/System/Images/colors.jpeg
+banner: "Notion/System/Images/colors.jpeg"
 ---
 #### Table of contents
 

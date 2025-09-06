@@ -1,3 +1,6 @@
+---
+sticker: ""
+---
 |Name|Midterm|Midterm2|Midterm3|Midterm4|Passwords|
 |---|---|---|---|---|---|
 |[[Nguyên lý kế toán]]||||||

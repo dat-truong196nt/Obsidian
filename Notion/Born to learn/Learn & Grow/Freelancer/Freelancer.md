@@ -1,3 +1,7 @@
+---
+banner: Notion/System/Images/freelancer.jpg
+banner_y: "86"
+---
 # Proposal
 
 ![[One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf]]
