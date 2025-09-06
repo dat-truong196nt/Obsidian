@@ -1,3 +1,7 @@
+---
+sticker: lucide//database
+banner: "Notion/System/Images/databricks.webp"
+---
 # Terms
 * CDC
 	* Change data capture
@@ -7,6 +11,14 @@
 	* Auto records data changes in Delta tables
 	* Retrive: Select * from table_changes(name, start_version/timestamp, [end/version/timestamp])
 	* Schema
+* Window function
+	* FUNCTION() OVER(WINDOW)
+		* FUNCTION(): What to do?
+		* WINDOW: How your data should look like?
+	* Examples:
+		* ROW_NUMBER() OVER(ORDER BY col DESC)
+		* RANK() OVER(PARTITION BY col1 ORDER BY col2 DESC)
+	* Ref: https://www.youtube.com/watch?v=rIcB4zMYMas&t=460s
 
 | Col1 | Col2 | ... | Change Type      | Time     | Version |
 | ---- | ---- | --- | ---------------- | -------- | ------- |
