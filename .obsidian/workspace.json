@@ -11,12 +11,14 @@
             "id": "6d714fe9cc099750",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính"
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinh tế - Tài chính"
+              "title": "AppSheet"
             }
           }
         ]
@@ -82,13 +84,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
-    "collapsed": true
+    "width": 568.5
   },
   "right": {
     "id": "8d288416f4cc745d",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Kinh tế - Tài chính.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kinh tế - Tài chính"
+              "title": "Backlinks for AppSheet"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Kinh tế - Tài chính.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kinh tế - Tài chính"
+              "title": "Outgoing links from AppSheet"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Kinh tế - Tài chính.md",
+                "file": "Notion/Born to learn/Learn & Grow/Chi Nhiên/Untitled/AppSheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kinh tế - Tài chính"
+              "title": "Outline of AppSheet"
             }
           }
         ]
@@ -181,10 +181,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f23420c8d863b1d8",
+  "active": "6d714fe9cc099750",
   "lastOpenFiles": [
-    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/UEH.md",
+    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
     "Notion/Born to learn/Born to learn.md",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Kinh tế - Tài chính.md",
+    "Notion/Born to learn/Learn & Grow/Learn & Grow.md",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/UEH.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Untitled.md",
     "Notion/Notion.md",
     "Vault.md",
@@ -192,7 +195,6 @@
     "Notion/Born to learn/Learn & Grow/Personal Development/Personal Development.md",
     "Notion/Free Note/Free Note.md",
     "Untitled.md",
-    "Notion/Born to learn/Learn & Grow/Learn & Grow.md",
     "Notion/Born to learn/Learn & Grow/Freelancer/Freelancer.md",
     "Notion/Born to learn/Learn & Grow/English/English.md",
     "Notion/System/Images/freelancer.jpg",
@@ -209,7 +211,6 @@
     "Notion/System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
     "Notion/System/Images",
     "Notion/System",
-    "Notion/Born to learn/Learn & Grow/Chi Nhiên/Chi Nhiên.md",
     "ObsidianVault/Notion/Born to learn/Learn & Grow/English.md",
     "ObsidianVault/Notion/Born to learn/Learn & Grow/Chi Nhiên.md",
     "Notion/Born to learn/Weekly plan.md",
@@ -228,7 +229,6 @@
     "Notion/Free Note",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS/CSS in JS.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/CSS/Pages/CSS in JS",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Web dev/Untitled/Redux/Redux.md",
     "Untitled.canvas"
   ]
 }
