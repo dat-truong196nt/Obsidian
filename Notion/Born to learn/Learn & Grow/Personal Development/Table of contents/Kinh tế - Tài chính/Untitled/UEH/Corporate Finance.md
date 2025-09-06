@@ -110,11 +110,14 @@ Liability nó ở đâu? (Trong NWC,
 **- Công ty có nên đi vay hay ko? (EBIT - EPS)**  
 **- Quyết định tài trợ có ảnh hưởng tới giá trị DN hay ko? (Vl? Vu?)**  
   
-Lý thuyết MM về qđ tài trợ  
-Giả định: ko thuế, ko chi phí giao dịch, NĐT vs Cty có cùng lãi suất, cùng đk trả.  
-Định đề 1: QĐ tài trợ ko ảnh hưởng đến giá trị DN.  
-- V(leverage) = V(unLeverage)  
-Định đề 2: Mặc dù V ko đổi, nhưng rủi ro  
+# Modigliani and Miller (MM)
+> Không thuế
+> Không chi phí giao dịch
+> NĐT vs Cty có cùng lãi suất, cùng đk trả.  
+1. Định đề 1: QĐ tài trợ ko ảnh hưởng đến giá trị DN.  
+	- V(leverage) = V(unLeverage)
+	- Nếu có sự chênh lệch thì arbitrage sẽ trả lại sự cân bằng
+2. Định đề 2: Mặc dù V ko đổi, nhưng rủi ro
   
   
 EBIT là cầu nối giữa quyết định đầu tư và quyết định tài trợ  

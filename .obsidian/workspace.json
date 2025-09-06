@@ -97,11 +97,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 581.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d288416f4cc745d",
@@ -177,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
