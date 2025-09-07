@@ -46,6 +46,35 @@ Non-time-based windows is not supported on streaming DF
 	* Each time query the view -> Execute table again -> Costly
 ## Materialize view
 * Cache and update as source change (Schedule/Auto)
+## RBAC
+* Column filtering
+```sql
+	CREATE OR REPLACE VIEW customers_vw AS
+		SELECT
+			customer_id,
+			CASE 
+				WHEN is_member('admins_demo') THEN email
+				ELSE 'REDACTED'
+			END AS email,
+			CASE 
+				WHEN is_member('admins_demo') THEN street
+				ELSE 'REDACTED'
+			END AS street,
+			city,
+			country,
+			row_time
+		FROM customers_silver
+```
+* Row filtering
+```SQL
+CREATE OR REPLACE VIEW customers_fr_vw AS
+SELECT * FROM customers_vw
+	WHERE
+		CASE
+			WHEN is_member('admins_demo') THEN TRUE
+			ELSE country = "France" AND row_time > "2022-01-01"
+		END
+```
 # Performance optimization
 
 ## Data File Layout
