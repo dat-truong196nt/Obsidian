@@ -46,5 +46,19 @@ Non-time-based windows is not supported on streaming DF
 	* Each time query the view -> Execute table again -> Costly
 ## Materialize view
 * Cache and update as source change (Schedule/Auto)
-# Partitioning
-* Op
+# Performance optimization
+
+## Data File Layout
+### Partitioning
+* Large tables only
+* Optimize query performance by partitioning (select/delete)
+* Choosing a partition
+	* Low cardinality fields
+	* Each partition > 1Gb
+* Delete data break append-only requirement in streaming.
+* Delete will not actually occur until run VACUUM
+### Z-Order Indexing
+* Small tables
+* Need rewrite all data when new data come.
+
+### Liquid Clustering
