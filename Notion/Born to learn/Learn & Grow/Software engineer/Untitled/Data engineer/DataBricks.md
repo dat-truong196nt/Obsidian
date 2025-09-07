@@ -72,4 +72,5 @@ Non-time-based windows is not supported on streaming DF
 * Move high cardinality out of first 32 columns.
 * 10 commits create a .parquet checkpoint
 * Auto delete log for each commit (>retetion)
+# Tooling
 ## 
