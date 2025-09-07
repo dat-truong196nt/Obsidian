@@ -60,5 +60,6 @@ Non-time-based windows is not supported on streaming DF
 ### Z-Order Indexing
 * Small tables
 * Need rewrite all data when new data come.
+* Choose 
 
 ### Liquid Clustering
