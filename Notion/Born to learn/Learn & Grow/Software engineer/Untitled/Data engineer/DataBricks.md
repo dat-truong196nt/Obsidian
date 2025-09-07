@@ -36,6 +36,10 @@ banner: "Notion/System/Images/databricks.webp"
 	- CDC with multiple updates for the same key
 3. Stream-Static join
 	* Each micro batch will fetch the latest version of static table
+4. Pip install will restart the python interpreter.
+	* All variables will be removed
+5. SH run on local node, pip run for all nodes.
+6. Integration test: Verify subsystem of an application.
 
 Non-time-based windows is not supported on streaming DF
 
