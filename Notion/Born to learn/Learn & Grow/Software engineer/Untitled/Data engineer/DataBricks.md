@@ -107,5 +107,9 @@ SELECT * FROM customers_vw
 * Auto delete log for each commit (>retetion)
 # Tooling
 * Databricks CLI built on top of Databricks REST API
-* 
 
+# Exam
+## Details
+* Length: 120mins/60questions
+* 42/60 -> PASSED
+## Structure
