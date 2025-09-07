@@ -56,10 +56,20 @@ Non-time-based windows is not supported on streaming DF
 	* Low cardinality fields
 	* Each partition > 1Gb
 * Delete data break append-only requirement in streaming.
-* Delete will not actually occur until run VACUUM
+* Delete will not actually occur until run VACUUM (data file only)
 ### Z-Order Indexing
 * Small tables
 * Need rewrite all data when new data come.
 * Collocate value in columns that commonly used in query.
 ### Liquid Clustering
 * Auto analyze and group data
+## Deltalake transaction log
+### Log checkpoint
+* Each commit create a .json log
+	* Statistics
+		* Total # of records
+		* First 32 columns (Min, Max, NullCount)
+* Move high cardinality out of first 32 columns.
+* 10 commits create a .parquet checkpoint
+* Auto delete log for each commit (>retetion)
+## 
