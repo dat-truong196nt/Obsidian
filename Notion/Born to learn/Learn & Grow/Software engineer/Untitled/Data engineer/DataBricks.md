@@ -73,5 +73,6 @@ Non-time-based windows is not supported on streaming DF
 * 10 commits create a .parquet checkpoint
 * Auto delete log for each commit (>retetion)
 # Tooling
-## Workflow config
+* Databricks CLI built on top of Databricks REST API
+* 
 
