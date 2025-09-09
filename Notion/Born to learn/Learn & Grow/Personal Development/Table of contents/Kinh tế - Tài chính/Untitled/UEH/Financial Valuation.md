@@ -184,3 +184,6 @@ Giá trị đầu tư: chủ quan, xác định trên quan điểm NĐT, phụ t
 Giá trị nội tại:  
   
 Tiền đề giá trị: cần đặt trong bối cảnh, sự kiện hay hoàn cảnh giao dịch nào để áp dụng cho doanh nghiệp cần định giá.
+
+
+

@@ -18,6 +18,6 @@ sticker: ""
 |[[Corporate governance + ethic]]||||||
 |[[Tài chính doanh nghiệp NC]]||||||
 |[[Quản trị rủi ro tài chính]]||||||
-|[[Định giá doanh nghiệp]]||||||
+|[[Financial Valuation]]||||||
 |[[Tài chính công ty đa quốc gia]]||||||
 |[[Đầu tư tài chính]]||||||

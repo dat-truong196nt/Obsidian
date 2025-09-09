@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer/DataBricks.md",
+                "file": "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Financial Valuation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DataBricks"
+              "title": "Financial Valuation"
             }
           }
         ]
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d288416f4cc745d",
@@ -196,6 +197,7 @@
   },
   "active": "825ce4c25229ed4e",
   "lastOpenFiles": [
+    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer/DataBricks.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Corporate Finance.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Thống kê.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Intenational Finance.md",
@@ -217,7 +219,6 @@
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Financial theory.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Financial theory1/Financial theory1.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Financial theory1",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer/DataBricks.md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/My darling (24-12).md",
     "Untitled.md",
