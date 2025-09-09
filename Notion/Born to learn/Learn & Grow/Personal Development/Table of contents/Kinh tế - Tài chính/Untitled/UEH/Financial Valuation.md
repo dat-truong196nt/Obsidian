@@ -202,3 +202,9 @@ Cách 5: Sử dụng MH AGM để xác định TVn
 Đọc lại: Lý thuyết trade off (Thay đổi cấu trúc vốn)
 
 Phương pháp tài sản (Chương 8)
+
+![[IMG20250909201432.jpg]]
+
+![[IMG20250909201439.jpg]]
+
+

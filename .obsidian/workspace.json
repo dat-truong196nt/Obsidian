@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64f51009023bb84d",
+        "id": "c2b3739b4701eb2d",
         "type": "tabs",
         "children": [
           {
-            "id": "825ce4c25229ed4e",
+            "id": "1092de527659b4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,9 +195,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "825ce4c25229ed4e",
+  "active": "1092de527659b4b2",
   "lastOpenFiles": [
+    "Notion/System/Images/IMG20250909201432.jpg",
+    "Excalidraw/Drawing 2025-09-06 22.27.11.excalidraw.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Financial Valuation.md",
+    "Notion/System/Images/IMG20250909201439.jpg",
+    "IMG20250909201439 1.jpg",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/![[IMG20250909201439.jpg]].md",
+    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/[[NotionBorn to learnLearn & GrowPersonal DevelopmentTable of contentsKinh tế - Tài chínhUntitledUEH![[IMG20250909201439.jpg]].md![[IMG20250909201439.jpg]]]].md",
     "Notion/Born to learn/Learn & Grow/Software engineer/Untitled/Data engineer/DataBricks.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Corporate Finance.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Thống kê.md",
@@ -220,10 +226,6 @@
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Financial theory.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Financial theory1/Financial theory1.md",
     "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/Kinh tế - Tài chính/Untitled/UEH/Untitled/Financial theory1",
-    "Notion/Born to learn/Learn & Grow/Software engineer/Software engineer.md",
-    "Notion/Born to learn/Learn & Grow/Personal Development/Table of contents/My darling (24-12).md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-09-06 22.27.11.excalidraw.md",
     "Excalidraw",
     "Notion/System/Images/databricks.webp",
     "databricks.webp",
@@ -232,9 +234,6 @@
     "Notion/System/Images/world.jpeg",
     "Notion/System/Images/nocover.jpg",
     "Notion/System/Images/web-development.png",
-    "Notion/System/Images/web-design.png",
-    "Notion/System/Images/software_engineer.jpeg",
-    "Notion/System/Images/redux.svg",
     "Notion/System/Images/One-Time_Offer_B_Su_Tp_13_Proposal_Tt_Nht__Nhng_Mu_Cu_Ting_Anh_Thng_Dng.pdf",
     "Notion/System/Images",
     "Notion/System",
