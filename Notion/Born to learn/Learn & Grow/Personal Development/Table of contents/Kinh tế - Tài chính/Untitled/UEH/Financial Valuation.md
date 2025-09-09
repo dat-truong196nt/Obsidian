@@ -186,4 +186,18 @@ Giá trị nội tại:
 Tiền đề giá trị: cần đặt trong bối cảnh, sự kiện hay hoàn cảnh giao dịch nào để áp dụng cho doanh nghiệp cần định giá.
 
 
+Cách 4: Sử dụng MH VDM để tính TVn
+
+| MH GGM (Cách 1)                                                    | MH VDM (Cách 4)                                                          |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Người định giá ước tính<br>Capex và NWC gia tăng liên tục hằng năm | Người định giá không ước tính<br>Capex và NWC gia tăng liên tục hằng năm |
+| g > 0<br>r-g: lãi suất vốn hoá                                     | g = 0<br>k: lãi suất vốn hoá.                                            |
+
+
+Cách 5: Sử dụng MH AGM để xác định TVn
+
+| MH GGM (Cách 1)                                                                                               | MH AGM (Cách 5)                                                                         |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Không điều chỉnh cho những thay đổi của cấu trúc vốn.<br>=> Giả định CTV của DN là Ko thay đổi (CTV mục tiêu) | Điều chỉnh cho những thay đổi trong cấu trúc vốn.<br>=> Giả định CTV của DN sẽ thay đổi |
+Đọc lại: Lý thuyết trade off (Thay đổi cấu trúc vốn)
 
