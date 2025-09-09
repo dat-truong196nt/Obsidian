@@ -201,3 +201,4 @@ Cách 5: Sử dụng MH AGM để xác định TVn
 | Không điều chỉnh cho những thay đổi của cấu trúc vốn.<br>=> Giả định CTV của DN là Ko thay đổi (CTV mục tiêu) | Điều chỉnh cho những thay đổi trong cấu trúc vốn.<br>=> Giả định CTV của DN sẽ thay đổi |
 Đọc lại: Lý thuyết trade off (Thay đổi cấu trúc vốn)
 
+Phương pháp tài sản (Chương 8)
